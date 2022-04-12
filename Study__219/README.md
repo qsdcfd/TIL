@@ -7,5 +7,5 @@
 이어드림 수업(이산수학): 시그마와 product ~ 미분
 
 3. types_of_data
-4. 
-5. 이어드림 수업(이산수학): 데이터 설정 ~ Encoder와 Onehot이용 후 정렬(sort_values()
+
+4. 이어드림 수업(이산수학): 데이터 설정 ~ Encoder와 Onehot이용 후 정렬(sort_values()
