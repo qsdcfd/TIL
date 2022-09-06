@@ -28,3 +28,7 @@ https://i0.wp.com/blog.dramancompany.com/wp-content/uploads/2022/06/스크린샷
 
 **Recommendation and Knowledge Graph**
 
+- 도입이유
+   - 기존의 cbf, cf의 단점 보완하여 추천시스템 탄생
+   - CF는 user-item 관계 사용, content-based-filtering은 item-attribute 관계만을 사용하여 추천
+   - 그러나, 지시 그래프 임베딩으 활용하 추천시스템은 두 가지 단점을 모두 보완하여 추천시스템 개발이 가능하다.
